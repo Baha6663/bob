@@ -1,0 +1,355 @@
+/* Tur de Baha */
+h3 {
+position: absolute;
+width: 728px;
+height: 140px;
+left: 596px;
+top: 252px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 155px;
+
+color: #FFFFFF;
+}
+.but {
+/* Group 38 */
+
+position: absolute;
+width: 287px;
+height: 260px;
+left: 816px;
+top: 674px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 287px;
+height: 260px;
+left: 816px;
+top: 674px;
+
+background: rgba(217, 217, 217, 0.55);
+opacity: 0.84;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 44px;
+
+
+/* Выбор стран */
+
+position: absolute;
+width: 207px;
+height: 153px;
+left: 856px;
+top: 713px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+
+
+
+    }
+ h6 {
+    /* Выбирай куда полетишь */
+
+position: absolute;
+width: 287px;
+height: 260px;
+left: calc(50% - 287px/2 + 25px);
+top: calc(50% - 260px/2 + 50px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #FFFFFF;
+
+ }
+body{/* 176025-atmosfera-mir-astronomicheskij_obekt-art-voda-3840x2160 1 */
+
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    
+    background: url("https://img1.akspic.ru/crops/5/2/0/6/7/176025/176025-atmosfera-mir-astronomicheskij_obekt-art-voda-3840x2160.png");
+    background-size: cover;
+    }
+    .menu {/* Rectangle 4 */
+
+        position: absolute;
+        width: 1920px;
+        height: 103px;
+        left: 0px;
+        top: 0px;
+        
+        background: #D9D9D9;
+        }
+    .qpng{
+        /* free-icon-magnifier-2311526 1 */
+
+position: absolute;
+width: 89px;
+height: 89px;
+left: 1814px;
+top: 14px;
+
+background: url("img/1.png");
+
+    }
+.qqpng{
+    /* free-icon-placeholder-684809 1 */
+
+position: absolute;
+width: 89px;
+height: 89px;
+left: 1681px;
+top: 14px;
+
+background: url("img/2.png");
+}
+.qqqpng{/* free-icon-user-456212 1 */
+
+    position: absolute;
+    width: 89px;
+    height: 89px;
+    left: 1547px;
+    top: 14px;
+    
+    background: url("img/3.png");
+    }
+.park{/* 176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-3840x2160 1 */
+
+/* 176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-3840x2160 1 */
+
+position: absolute;
+width: 399px;
+height: 498px;
+left: 335px;
+top: 558px;
+
+    background: url("https://img2.akspic.ru/previews/5/3/8/6/7/176835/176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-500x.jpg");
+    background-size: cover;    
+}
+.rarrk{/* Rectangle 8 */
+
+    position: absolute;
+    width: 399px;
+    height: 111px;
+    left: 335px;
+    top: 942px;
+    
+    background: rgba(208, 207, 207, 0.55);
+    backdrop-filter: blur(2px);
+    
+    
+    }
+    .peeeer{/* Нат. Парк 150.000Р */
+
+        position: absolute;
+        width: 350px;
+        height: 111px;
+        left: 335px;
+        top: 825px;
+        z-index: 1;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        
+        color: #000000;
+        
+        }
+        .abx{
+            /* Абхазия 13.000Р */
+/* Rectangle 8 */
+
+position: absolute;
+width: 464px;
+height: 114px;
+left: 646px;
+top: 966px;
+z-index: 2;
+
+background: rgba(208, 207, 207, 0.55);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+ }
+ .abbx{
+    position: absolute;
+    width: 463px;
+    height: 580px;
+    left: 647px;
+    top: 500px;
+    background: url("https://img2.akspic.ru/previews/6/5/0/6/7/176056/176056-gornyj_pereval-gora-stelvio-transfgran-grossglokner-x750.jpg");
+    background-size: cover;
+    z-index: 1;
+}
+ .aabx{
+    /* Абхазия 13.000Р */
+
+position: absolute;
+width: 463px;
+height: 114px;
+left: 647px;
+top: 850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+z-index: 3;
+
+
+ }
+ .er{
+    /* 175985-nagore-vest_hajlend_uej-shotlandskoe_nagore-oblako-gora-3840x2160 1 */
+
+position: absolute;
+width: 399px;
+height: 498px;
+left: 1037px;
+top: 558px;
+
+background: url("https://img3.akspic.ru/previews/5/8/9/5/7/175985/175985-nagore-vest_hajlend_uej-shotlandskoe_nagore-oblako-gora-x750.jpg");
+background-position: -300px;
+ }
+ .err{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 399px;
+height: 111px;
+left: 1037px;
+top: 942px;
+
+background: rgba(208, 207, 207, 0.55);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+ }
+ .er1{/* Ереван 15.000Р */
+
+    position: absolute;
+    width: 398px;
+    height: 111px;
+    left: 1038px;
+    top: 850px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    
+    color: #000000;
+    z-index: 1;
+    }
+    .yz{
+        /* 176907-nacionalnyj_park_fert_hansg-dvuhmestnyj_o_arku-aser_aspire-nacionalnyj_park-oblako-3840x2160 1 */
+
+position: absolute;
+width: 303px;
+height: 378px;
+left: 1333px;
+top: 618px;
+
+background: url("https://img1.akspic.ru/previews/4/1/7/0/7/170714/170714-dolomit-hotel-falkenshtajner_rezort_kapo_boj-falkenshtajner_otel-puteshestvie-x750.jpg");
+z-index: -3;
+    }
+    .yz1{/* Rectangle 8 */
+
+        position: absolute;
+        width: 303px;
+        height: 109px;
+        left: 1333px;
+        top: 887px;
+        
+        background: rgba(208, 207, 207, 0.55);
+        backdrop-filter: blur(2px);
+        /* Note: backdrop-filter has minimal browser support */
+        
+    z-index: -2;}
+        .yz2{/* Грузия 25.000Р */
+
+            position: absolute;
+            width: 303px;
+            height: 109px;
+            left: 1333px;
+            top: 765px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 58px;
+            text-align: center;
+            
+            color: #000000;
+            z-index: -1;
+            }
+            .os{/* 176023-dikaya_mestnost-oblako-rastenie-gora-prirodnyj_landshaft-3840x2160 1 */
+
+                position: absolute;
+                width: 232px;
+                height: 289px;
+                left: 1600px;
+                top: 662px;
+                
+                background: url("https://img1.akspic.ru/previews/7/2/8/6/7/176827/176827-planshet-sverhshirokij_formaty-voda-gora-gidroresursy-x750.jpg");
+                z-index: -6;
+            }
+            .os1{/* Rectangle 8 */
+
+                position: absolute;
+                width: 232px;
+                height: 109px;
+                left: 1600px;
+                top: 842px;
+                z-index: -5;
+                
+                background: rgba(208, 207, 207, 0.55);
+                backdrop-filter: blur(2px);
+                /* Note: backdrop-filter has minimal browser support */
+                }
+                .os2{/* Осетия 33.000Р */
+
+                    position: absolute;
+                    width: 232px;
+                    height: 109px;
+                    left: 1600px;
+                    top: 742px;
+                    
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 48px;
+                    line-height: 58px;
+                    text-align: center;
+                    
+                    color: #000000;
+                    z-index: -4;
+                    }

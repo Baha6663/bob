@@ -1,0 +1,322 @@
+.qqw{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 1140px;
+height: 743px;
+left: 390px;
+top: 168px;
+
+background: rgba(217, 217, 217, 0.5);
+border-width: 1px 1px 2px 2px;
+border-style: solid;
+border-color: #000000;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 41px;
+
+}
+body {/* 176822-otrazhenie-gosauseen-psihologiya-voda-oblako-3840x2160 1 */
+
+    position: absolute;
+    width: 1920px;
+    height: 1143px;
+    left: 0px;
+    top: 0px;
+    
+    background: url("https://img1.akspic.ru/previews/7/2/8/6/7/176827/176827-planshet-sverhshirokij_formaty-voda-gora-gidroresursy-x750.jpg");
+    background-size: cover;
+}
+.p{/* Username */
+
+    position: absolute;
+    width: 119px;
+    height: 29px;
+    left: 565px;
+    top: 323px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    color: #000000;
+    
+    }
+    h2{/* Registration */
+
+        position: absolute;
+        width: 366px;
+        height: 93px;
+        left: 777px;
+        top: 224px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 77px;
+        
+        color: #000000;
+        
+    }
+    .o{
+        /* Email */
+
+position: absolute;
+width: 63px;
+height: 29px;
+left: 565px;
+top: 440px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+    }
+    .i{/* Password */
+
+        position: absolute;
+        width: 119px;
+        height: 29px;
+        left: 565px;
+        top: 558px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 29px;
+        /* identical to box height */
+        
+        color: #000000;
+        
+        }
+        .u{
+            /* Confirm Password */
+
+position: absolute;
+width: 226px;
+height: 29px;
+left: 565px;
+top: 658px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+        }
+        .y{/* Cancel */
+
+            position: absolute;
+            width: 82px;
+            height: 23px;
+            left: 532px;
+            top: 764px;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 24px;
+            
+            color: #000000;
+            
+            }
+            .t{/* Do you have an account? */
+
+                position: absolute;
+                width: 243px;
+                height: 23px;
+                left: 1165px;
+                top: 768px;
+                
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 24px;
+                
+                color: #000000;
+                
+                }
+.pop{
+    /* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 885px;
+height: 53px;
+left: 517px;
+top: 370px;
+
+border: 1px solid #000000;
+border-radius: 9px;
+
+}    
+.poop{
+    /* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 885px;
+height: 53px;
+left: 517px;
+top: 487px;
+
+border: 1px solid #000000;
+border-radius: 9px;
+
+}    
+.poip{
+    /* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 885px;
+height: 53px;
+left: 517px;
+top: 605px;
+
+border: 1px solid #000000;
+border-radius: 9px;
+
+}
+.ppo{/* Rectangle 2 */
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 885px;
+    height: 53px;
+    left: 517px;
+    top: 705px;
+    
+    border: 1px solid #000000;
+    border-radius: 9px;
+    }
+    .r{
+        /* Cancel */
+
+position: absolute;
+width: 82px;
+height: 23px;
+left: 532px;
+top: 550px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+    }
+    .e{
+        /* Create an account */
+
+position: absolute;
+width: 186px;
+height: 23px;
+left: 1216px;
+top: 557px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+    }
+    .aasaas{/* Rectangle 3 */
+
+        position: absolute;
+        width: 800px;
+        height: 83px;
+        left: 560px;
+        top: 801px;
+        
+        background: #FF9B70;
+        backdrop-filter: blur(2px);
+        /* Note: backdrop-filter has minimal browser support */
+        border-radius: 7px;
+        /* Login */
+
+position: absolute;
+width: 169px;
+height: 76px;
+left: 875px;
+top: 808px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+        }
+.abx{/* 176056-gornyj_pereval-gora-stelvio-transfgran-grossglokner-3840x2160 1 */
+
+    position: absolute;
+    width: 463px;
+    height: 580px;
+    left: 647px;
+    top: 500px;
+    background: url("https://img2.akspic.ru/previews/6/5/0/6/7/176056/176056-gornyj_pereval-gora-stelvio-transfgran-grossglokner-x750.jpg");
+    background-size: cover;
+}
+.abbx{/* Rectangle 8 */
+
+    position: absolute;
+    width: 464px;
+    height: 114px;
+    left: 646px;
+    top: 966px;
+    
+    background: rgba(208, 207, 207, 0.55);
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    }
+.aabx{/* Абхазия 13.000Р */
+
+    position: absolute;
+    width: 463px;
+    height: 114px;
+    left: 647px;
+    top: 966px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }

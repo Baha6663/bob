@@ -1,0 +1,453 @@
+/* Tur de Baha */
+h3 {
+    position: absolute;
+    width: 728px;
+    height: 140px;
+    left: 596px;
+    top: 252px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 155px;
+    
+    color: #FFFFFF;
+    }
+    .but {
+    /* Group 38 */
+    
+    position: absolute;
+    width: 287px;
+    height: 260px;
+    left: 816px;
+    top: 674px;
+    
+    
+    
+    /* Rectangle 5 */
+    
+    position: absolute;
+    width: 287px;
+    height: 260px;
+    left: 816px;
+    top: 674px;
+    
+    background: rgba(217, 217, 217, 0.55);
+    opacity: 0.84;
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 44px;
+    
+    
+    /* Выбор стран */
+    
+    position: absolute;
+    width: 207px;
+    height: 153px;
+    left: 856px;
+    top: 713px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000;
+    
+    
+    
+        }
+     h6 {
+        /* Выбирай куда полетишь */
+    
+    position: absolute;
+    width: 287px;
+    height: 260px;
+    left: calc(50% - 287px/2 + 25px);
+    top: calc(50% - 260px/2 + 50px);
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+     }
+    body{/* 176025-atmosfera-mir-astronomicheskij_obekt-art-voda-3840x2160 1 */
+    
+        position: absolute;
+        width: 1920px;
+        height: 1080px;
+        left: 0px;
+        top: 0px;
+        
+        background: url("https://img1.akspic.ru/crops/5/2/0/6/7/176025/176025-atmosfera-mir-astronomicheskij_obekt-art-voda-3840x2160.png");
+        background-size: cover;
+        }
+        .menu {/* Rectangle 4 */
+    
+            position: absolute;
+            width: 1920px;
+            height: 103px;
+            left: 0px;
+            top: 0px;
+            
+            background: #D9D9D9;
+            }
+        .qpng{
+            /* free-icon-magnifier-2311526 1 */
+    
+/* free-icon-magnifier-2311526 1 */
+
+/* free-icon-magnifier-2311526 1 */
+
+position: absolute;
+width: 89px;
+height: 89px;
+left: 1814px;
+top: 14px;
+
+
+
+
+
+    
+    background: url("img/1.png");
+    
+        }
+    .qqpng{
+        /* free-icon-placeholder-684809 1 */
+    
+/* free-icon-placeholder-684809 1 */
+
+position: absolute;
+width: 89px;
+height: 89px;
+left: 1365px;
+top: 111px;
+
+
+    
+    background: url("img/2.png");
+    }
+    .qqqpng{/* free-icon-user-456212 1 */
+    
+        position: absolute;
+        width: 89px;
+        height: 89px;
+        left: 1547px;
+        top: 14px;
+        
+        background: url("img/3.png");
+        }
+    .park{/* 176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-3840x2160 1 */
+    
+    /* 176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-3840x2160 1 */
+    
+    position: absolute;
+    width: 399px;
+    height: 498px;
+    left: 335px;
+    top: 558px;
+    
+        background: url("https://img2.akspic.ru/previews/5/3/8/6/7/176835/176835-nacionalnyj_park_grand_kanon-bolshoj_kanon-tochka_navaho-mazer_pojnt-nacionalnyj_park_zajon-500x.jpg");
+        background-size: cover;    
+    }
+    .rarrk{/* Rectangle 8 */
+    
+        position: absolute;
+        width: 399px;
+        height: 111px;
+        left: 335px;
+        top: 942px;
+        
+        background: rgba(208, 207, 207, 0.55);
+        backdrop-filter: blur(2px);
+        
+        
+        }
+        .peeeer{/* Нат. Парк 150.000Р */
+    
+            position: absolute;
+            width: 350px;
+            height: 111px;
+            left: 335px;
+            top: 825px;
+            z-index: 1;
+            
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 58px;
+            text-align: center;
+            
+            color: #000000;
+            
+            }
+ .bob{
+/* Rectangle 6 */
+
+position: absolute;
+width: 596px;
+height: 982px;
+left: 1324px;
+top: 98px;
+
+background: rgba(217, 217, 217, 0.6);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 46px;
+z-index: -1;
+            
+ }
+ .bbo{
+    /* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 420px;
+height: 78px;
+left: 1454px;
+top: 117px;
+
+border: 4px solid #000000;
+z-index: 1;
+ }
+ .rrre{
+/* Салоны в Уфе */
+
+position: absolute;
+width: 301px;
+height: 44px;
+left: 1469px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+ }
+ .lll{
+    /* Line 1 */
+
+position: absolute;
+width: 467px;
+height: 0px;
+left: 1407px;
+top: 243px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+
+ }
+ .lll1{
+    /* Line 2 */
+
+position: absolute;
+width: 467px;
+height: 0px;
+left: 1410px;
+top: 286px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+ }
+ .lll2{
+    /* Line 3 */
+
+position: absolute;
+width: 467px;
+height: 0px;
+left: 1410px;
+top: 329px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+ }
+ .lll3{
+    /* Line 4 */
+
+position: absolute;
+width: 467px;
+height: 0px;
+left: 1411px;
+top: 372px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+ }
+ .lll4{/* Line 5 */
+
+    position: absolute;
+    width: 467px;
+    height: 0px;
+    left: 1414px;
+    top: 415px;
+    
+    border: 1px solid #FFFFFF;
+    transform: rotate(-0.25deg);
+    }
+    .lll5{/* Line 6 */
+
+        position: absolute;
+        width: 467px;
+        height: 0px;
+        left: 1414px;
+        top: 458px;
+        
+        border: 1px solid #FFFFFF;
+        transform: rotate(-0.25deg);
+        }
+        .lll6{
+            /* Line 1 */
+
+position: absolute;
+width: 467px;
+height: 0px;
+left: 1403px;
+top: 501px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.25deg);
+
+        }
+        .lll7{/* Line 2 */
+
+            position: absolute;
+            width: 467px;
+            height: 0px;
+            left: 1406px;
+            top: 544px;
+            
+            border: 1px solid #FFFFFF;
+            transform: rotate(-0.25deg);
+            }
+            .lll8{/* Line 3 */
+
+                position: absolute;
+                width: 467px;
+                height: 0px;
+                left: 1406px;
+                top: 587px;
+                
+                border: 1px solid #FFFFFF;
+                transform: rotate(-0.25deg);
+                }
+                .lll9{/* Line 4 */
+
+                    position: absolute;
+                    width: 467px;
+                    height: 0px;
+                    left: 1407px;
+                    top: 630px;
+                    
+                    border: 1px solid #FFFFFF;
+                    transform: rotate(-0.25deg);
+                    }
+                    .lll10{/* Line 5 */
+
+                        position: absolute;
+                        width: 467px;
+                        height: 0px;
+                        left: 1410px;
+                        top: 673px;
+                        
+                        border: 1px solid #FFFFFF;
+                        transform: rotate(-0.25deg);
+                        }
+                        .lll11{/* Line 6 */
+
+                            position: absolute;
+                            width: 467px;
+                            height: 0px;
+                            left: 1410px;
+                            top: 716px;
+                            
+                            border: 1px solid #FFFFFF;
+                            transform: rotate(-0.25deg);
+                            }
+                            .lll12{/* Line 1 */
+
+                                position: absolute;
+                                width: 467px;
+                                height: 0px;
+                                left: 1406px;
+                                top: 759px;
+                                
+                                border: 1px solid #FFFFFF;
+                                transform: rotate(-0.25deg);
+                                }
+                                .lll13{/* Line 2 */
+
+                                    position: absolute;
+                                    width: 467px;
+                                    height: 0px;
+                                    left: 1409px;
+                                    top: 802px;
+                                    
+                                    border: 1px solid #FFFFFF;
+                                    transform: rotate(-0.25deg);
+                                    }
+                                    .lll14{/* Line 3 */
+
+                                        position: absolute;
+                                        width: 467px;
+                                        height: 0px;
+                                        left: 1409px;
+                                        top: 845px;
+                                        
+                                        border: 1px solid #FFFFFF;
+                                        transform: rotate(-0.25deg);
+                                        }
+                                        .lll15{/* Line 4 */
+
+                                            position: absolute;
+                                            width: 467px;
+                                            height: 0px;
+                                            left: 1410px;
+                                            top: 888px;
+                                            
+                                            border: 1px solid #FFFFFF;
+                                            transform: rotate(-0.25deg);
+                                            }
+                                            .lll16{/* Line 5 */
+
+                                                position: absolute;
+                                                width: 467px;
+                                                height: 0px;
+                                                left: 1413px;
+                                                top: 931px;
+                                                
+                                                border: 1px solid #FFFFFF;
+                                                transform: rotate(-0.25deg);
+                                                }
+                                                .lll17{/* Line 6 */
+
+                                                    position: absolute;
+                                                    width: 467px;
+                                                    height: 0px;
+                                                    left: 1413px;
+                                                    top: 974px;
+                                                    
+                                                    border: 1px solid #FFFFFF;
+                                                    transform: rotate(-0.25deg);
+                                                    }
